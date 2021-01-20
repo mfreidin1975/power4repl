@@ -4,4 +4,4 @@ Based on the fact that if H0!=0, then the test statistics follows chi2 distribut
 
 Needs effect estimate (beta), SE for beta, discovery sample size, replication sample size, number of loci to replicate and a p-value pursued
 
-INCORRECT! DO NOT USE!!!
+NEED CHANGE GENERIC FUNCTION!
